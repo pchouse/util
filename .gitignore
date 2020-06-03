@@ -1,0 +1,15 @@
+/nbproject
+/vendor
+.settings
+.settings/
+.buildpath/
+.project/
+.metadata
+/target/surefire-reports/*
+.idea
+/lib/*.jar
+/target
+
+/src/test/resources/mysql-connector.jar
+/src/assembly/**
+
